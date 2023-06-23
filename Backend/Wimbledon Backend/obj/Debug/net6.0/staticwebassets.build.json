@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "A2fU6nSebVjrhQCrol+zCv1Fvvkvqu2karSck9VOMQ4=",
+  "Source": "LoginAndRegister",
+  "BasePath": "_content/LoginAndRegister",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LoginAndRegister\\wwwroot",
+      "Source": "LoginAndRegister",
+      "ContentRoot": "C:\\Users\\Belkisa\\source\\repos\\LoginAndRegister\\wwwroot\\",
+      "BasePath": "_content/LoginAndRegister",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
